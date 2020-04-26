@@ -1,0 +1,6 @@
+2020-04-26 13:36:06.1184 TRACE trace message
+2020-04-26 13:36:06.2524 DEBUG debug message
+2020-04-26 13:36:06.2790 INFO info message
+2020-04-26 13:36:06.2816 WARN warn message
+2020-04-26 13:36:06.2816 ERROR error message
+2020-04-26 13:36:06.2816 FATAL fatal message
